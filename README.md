@@ -3,6 +3,7 @@
 💻An Aspiring software engineer<br/>
 👨🏽‍🎓ALX Backend engineering graduate<br/>
 👨🏽‍🎓Studying Bsc Informatics at University of South Africa<br/>
+🛠Solving problems through code!
 
 
 
