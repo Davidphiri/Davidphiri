@@ -1,6 +1,6 @@
 ## Hi there, I am David Junior Phiri. 👋
 
-💻An Aspiring software engineer<br/>
+💻I am a software engineer<br/>
 👨🏽‍🎓ALX Backend engineering graduate<br/>
 👨🏽‍🎓Studying Bsc Informatics at University of South Africa<br/>
 🛠Solving problems through code!
